@@ -51,3 +51,7 @@ Register-ScheduledTask -TaskName "Copy Spotlight Assets" -Action $action -Trigge
 ```
 
 `pythonw.exe` startet das Skript ohne Konsolenfenster.
+
+## Lizenz
+
+[MIT](LICENSE)
