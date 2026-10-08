@@ -1,0 +1,5 @@
+# Nur das Spotlight-Skript wird versioniert, alle anderen Dateien in diesem Ordner nicht.
+/*
+!/.gitignore
+!/README.md
+!/copy_assets.py
